@@ -3,12 +3,12 @@ entries:
   locus-privacy-service:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-11-22T15:59:29.125128291+01:00"
+    created: "2021-11-22T16:09:20.941192725+01:00"
     description: A Helm chart for Kubernetes
-    digest: 87f9fceaa2447e69ed9ff9512b3fc5832aed7ef29ec059903d903a41b45db504
+    digest: 4f8e9c041a5c836d73f9fe0711808cbf5f375184a3bea9e0efea9f7914d4832d
     name: locus-privacy-service
     type: application
     urls:
     - https://nventuri97.github.io/helm-charts-repo/locus-privacy-service/locus-privacy-service-0.1.1.tgz
     version: 0.1.1
-generated: "2021-11-22T15:59:29.124716699+01:00"
+generated: "2021-11-22T16:09:20.9407503+01:00"
