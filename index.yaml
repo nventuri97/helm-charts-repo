@@ -3,7 +3,7 @@ entries:
   locus-privacy-service:
   - apiVersion: v2
     appVersion: 1.16.2
-    created: "2021-12-02T10:35:25.314684249+01:00"
+    created: "2021-12-06T12:41:47.189221245+01:00"
     description: A Helm chart for Kubernetes
     digest: 37358cc0cc72df0b81e8b450333fd952380517c45ce5a4f6b5f37eb72bb764cf
     name: locus-privacy-service
@@ -13,19 +13,19 @@ entries:
     version: 0.1.2
   mongo-privacy-service:
   - apiVersion: v2
-    appVersion: 1.16.3
-    created: "2021-12-02T10:35:25.315091587+01:00"
+    appVersion: 1.16.5
+    created: "2021-12-06T12:41:47.189537815+01:00"
     description: A Helm chart for Kubernetes
-    digest: ead603d627733a870d54ca2bebe61054669b92ef3fea68d2d7fb1f6c4a0d6ed5
+    digest: c6ef22c2376b71c483c7ddcda780e01f575a5566eb3efcbde49cabd012318415
     name: mongo-privacy-service
     type: application
     urls:
-    - https://nventuri97.github.io/helm-charts-repo/mongo-privacy-service/mongo-privacy-service-0.1.3.tgz
-    version: 0.1.3
+    - https://nventuri97.github.io/helm-charts-repo/mongo-privacy-service/mongo-privacy-service-0.1.5.tgz
+    version: 0.1.5
   parser-uma:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-12-02T10:35:25.31543333+01:00"
+    created: "2021-12-06T12:41:47.189779888+01:00"
     description: A Helm chart for Kubernetes
     digest: a876e2613ce935f4fdc09c4365c0026e8d8c0b30e7a03ef0ca7963df9a009b8b
     name: parser-uma
@@ -36,7 +36,7 @@ entries:
   positioning-uma:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-12-02T10:35:25.315820913+01:00"
+    created: "2021-12-06T12:41:47.190027647+01:00"
     description: A Helm chart for Kubernetes
     digest: ae5a9044c804ac8227d81bcca4f1f2bc50a43c4790e4ccbd18b71f3a549e121f
     name: positioning-uma
@@ -47,7 +47,7 @@ entries:
   server-uma:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2021-12-02T10:35:25.316164495+01:00"
+    created: "2021-12-06T12:41:47.190281043+01:00"
     description: A Helm chart for Kubernetes
     digest: 70172dcdc0a60f30ef2987176905dd64eb5fe7c9a43a995a3f80a1b818b3d3c9
     name: server-uma
@@ -55,4 +55,4 @@ entries:
     urls:
     - https://nventuri97.github.io/helm-charts-repo/server-uma/server-uma-0.1.1.tgz
     version: 0.1.1
-generated: "2021-12-02T10:35:25.314059043+01:00"
+generated: "2021-12-06T12:41:47.188813407+01:00"
